@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Application Job Template for Dmo",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "YAPJ_CAT_DEMO"
+  },
+  "parameters": {
+    "singleValueParameters": [
+      {
+        "name": "P_DO",
+        "value": ""
+      }
+    ]
+  }
+}
